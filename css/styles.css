@@ -94,7 +94,7 @@ p{
 .bottomCloud {
   position: absolute;
   left: 20%;
-  bottom: 50%;
+  top: 240px;
 }
 
 {
